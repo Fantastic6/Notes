@@ -1,6 +1,7 @@
 # Summary of Notes 
 
-We have four classes: 
+We have four classes: CPU.java, Memory.java, Main.java, and Controller.java
+
 # CPU.java 
 
 There are 4 general purpose registers GPRs. (GPR short [])
@@ -33,7 +34,7 @@ The CPU calls a method called process_instruction. It does the following:
 
 
 
-# Memory
+# Memory.java
 
 Memory is made up of several parts: 
 
@@ -41,5 +42,9 @@ Memory is made up of several parts:
 2. Need to initialize the memory. 
 3. Need to set the memory. (setter)
 4. Need to get the memory. (getter)
+
+# Main.java
+
+# Controller.java
 
 
