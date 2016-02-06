@@ -45,6 +45,15 @@ Memory is made up of several parts:
 
 # Main.java
 
-# Controller.java
+We declare the memory object and CPU. 
 
+Then we start the interface to get the whole program running. 
 
+# Controller.java (Interface)
+
+1. One field for the address.
+2. One row of switches to set the instruction. 
+3. 4 rows of switches for the general purpose registers. 
+4. 3 fields for the index registers.
+5. One SSS to run the instruction. 
+6. One Display button to display the contents of memory location x where x is an index. 
