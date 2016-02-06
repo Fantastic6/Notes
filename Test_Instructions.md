@@ -10,7 +10,11 @@ There are three text fields for the index registers. You can set the value there
 
 The display button can be clicked to check the contents of memory location x where x is an index. 
 
-Teh Single Step Switch will run the instruction. 
+The Single Step Switch will run the instruction. 
+
+To run:
+
+Macs - Terminal Command: java -jar yourjarfile.jar
 
 # Test Instructions 
 
