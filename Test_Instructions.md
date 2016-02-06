@@ -1,4 +1,4 @@
-# Test Instructions 
+# Use Instructions 
 
 There is one text field for the address. 
 
@@ -6,7 +6,13 @@ Thre is one row of switches to set the instruction. You can also set the instruc
 
 There are four rows of switches for the general purpose registers. You can also set the value with the text field. 
 
+There are three text fields for the index registers. You can set the value there. 
 
+The display button can be clicked to check the contents of memory location x where x is an index. 
+
+Teh Single Step Switch will run the instruction. 
+
+# Test Instructions 
 
 ## LDR
 
